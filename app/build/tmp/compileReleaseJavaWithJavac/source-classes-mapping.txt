@@ -1,0 +1,2 @@
+com/example/rgr/BuildConfig.java
+ com.example.rgr.BuildConfig
